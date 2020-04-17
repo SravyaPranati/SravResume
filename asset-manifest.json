@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SravResume/static/css/main.c9d825e9.chunk.css",
+    "main.js": "/SravResume/static/js/main.1451e357.chunk.js",
+    "main.js.map": "/SravResume/static/js/main.1451e357.chunk.js.map",
+    "runtime-main.js": "/SravResume/static/js/runtime-main.70d39216.js",
+    "runtime-main.js.map": "/SravResume/static/js/runtime-main.70d39216.js.map",
+    "static/js/2.98608644.chunk.js": "/SravResume/static/js/2.98608644.chunk.js",
+    "static/js/2.98608644.chunk.js.map": "/SravResume/static/js/2.98608644.chunk.js.map",
+    "index.html": "/SravResume/index.html",
+    "precache-manifest.5544c7f758f619268d0ece376e58e2af.js": "/SravResume/precache-manifest.5544c7f758f619268d0ece376e58e2af.js",
+    "service-worker.js": "/SravResume/service-worker.js",
+    "static/css/main.c9d825e9.chunk.css.map": "/SravResume/static/css/main.c9d825e9.chunk.css.map",
+    "static/js/2.98608644.chunk.js.LICENSE.txt": "/SravResume/static/js/2.98608644.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/SravResume/static/media/profile.93a874e1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70d39216.js",
+    "static/js/2.98608644.chunk.js",
+    "static/css/main.c9d825e9.chunk.css",
+    "static/js/main.1451e357.chunk.js"
+  ]
+}
